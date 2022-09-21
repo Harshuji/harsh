@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main()
+{
+
+//char str[] = {'H','A','R','S','H','\0'};
+char str[] = "Harsh";
+
+return 0;
+}
+    
